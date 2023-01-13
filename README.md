@@ -11,7 +11,7 @@ Projeto Eommerce.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212438343-fd8b0fda-fa3a-45a9-afa7-ff33395540b7.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212438343-fd8b0fda-fa3a-45a9-afa7-ff33395540b7.jpg" width="700px">
 </p>
 
 <br>
